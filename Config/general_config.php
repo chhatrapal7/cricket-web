@@ -7,25 +7,24 @@ $profilePicSize=51200;
 
 $sitename = "Title";
 
-$baseurl = "http://localhost/apna_structure/";
+$baseurl = "http://13.233.173.96:8080/";
 $fileURL = "http://localhost/techbprjuserfiles";
 
 $uploadPicurl = "../../../../images/";
 $Iconuploadpath="../images/";
 $IconPath="../../images/";
-$imageurl = "http://localhost/apna_structure/images/";
+$imageurl = "http://13.233.173.96:8080/images/";
 $resourceSize = 51200;
-$resourcePath = "http://localhost/apna_structure/resources/";
-$resourceUploadpath = "../../resources";
+$resourcePath = "http://13.233.173.96:8080/resources/";
 
+$resourceUploadpath = "../../resources"; 
 
+$companyPrefix = "Company"; 
 
-$companyPrefix = "Company";
+$companyName = ""; 
 
-$companyName = "";
+$email_from = ""; 
 
-$email_from = "";
-
-$dataperpage = "5";
+$dataperpage = "5"; 
 
 ?>
