@@ -62,19 +62,18 @@ Local Laptop
 ➡️ EC2 (Linux) → Docker → Apache → PHP Application
 ↕️ Secure Database Connection
 ➡️ Amazon RDS (MySQL) → Application Data
-⬇️
 
 🛠️ Technologies Used
 
-🌐 AWS  
-🌐 EC2 
-🌐 RDS 
-🌐 Linux 
-🌐 Docker 
-🌐 Apache 
-🌐 PHP  
-🌐 MySQL 
-🌐 Git  
+🌐 AWS
+🌐 EC2
+🌐 RDS
+🌐 Linux
+🌐 Docker
+🌐 Apache
+🌐 PHP
+🌐 MySQL
+🌐 Git
 🌐 GitHub
 
 💡 What I Learned
